@@ -83,7 +83,7 @@ Client (React App)     Server
 
 ---
 
-## 🧾 Summary – What to Say in an Interview
+## 🧾 Summary – What to Say in an Interviews
 
 > “Long Polling is a technique where the client sends a request and the server holds it open until there’s new data. After responding, the client sends a new request immediately. It’s more real-time than short polling and useful when WebSockets aren’t supported.”
 
