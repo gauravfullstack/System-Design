@@ -1,6 +1,3 @@
-Perfect! Let’s now dive deeper into **Frontend System Design Patterns** — this is a **high-value area in interviews**, especially for product-based companies.
-
----
 
 # 🧠 Frontend System Design Patterns – Deep Dive (Interview & Real-World Focus)
 
