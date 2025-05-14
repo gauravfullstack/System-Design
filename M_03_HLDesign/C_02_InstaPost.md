@@ -667,6 +667,7 @@ const createPost = useMutation(postData => api.createPost(postData), {
 * Compress image before upload (using canvas or lib)
 * Use `FormData` and `axios` for multipart uploads
 
+
 ```ts
 const formData = new FormData();
 formData.append("caption", caption);
