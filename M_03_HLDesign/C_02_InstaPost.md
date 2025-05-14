@@ -659,13 +659,13 @@ const createPost = useMutation(postData => api.createPost(postData), {
   }
 });
 ```
-
 ---
 
-### 4. 📤 Upload Handling
+### 4. 📤 Upload Handling File
 
 * Compress image before upload (using canvas or lib)
 * Use `FormData` and `axios` for multipart uploads
+
 
 ```ts
 const formData = new FormData();
