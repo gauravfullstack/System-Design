@@ -659,7 +659,6 @@ const createPost = useMutation(postData => api.createPost(postData), {
   }
 });
 ```
-
 ---
 
 ### 4. 📤 Upload Handling
