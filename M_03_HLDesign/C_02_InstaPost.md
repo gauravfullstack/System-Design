@@ -672,6 +672,7 @@ formData.append("caption", caption);
 formData.append("media", file);
 ```
 
+
 ---
 
 ### 5. 🔄 Reusable Components
