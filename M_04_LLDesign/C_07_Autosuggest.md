@@ -1,6 +1,6 @@
 # 🔍 LLD Chapter 7: **Autosuggest Search Bar**
 
-> A core component in modern UIs (e.g., Amazon, Google, YouTube) that provides instant suggestions as the user types.
+> A core component in modern UIs (e.g, Amazon, Google, YouTube) that provides instant suggestions as the user types.
 
 ---
 
