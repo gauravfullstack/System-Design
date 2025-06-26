@@ -2,7 +2,7 @@
 
 > A core component in modern UIs (e.g, Amazon, Google, YouTube) that provides instant suggestions as the user types.
 
----
+----
 
 ## ✅ Functional Requirements
 
