@@ -4,6 +4,7 @@
 
 ---
 
+
 ## ✅ Functional Requirements
 
 | Feature                 | Description                          |
